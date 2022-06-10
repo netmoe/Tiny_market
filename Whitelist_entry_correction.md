@@ -1,3 +1,5 @@
+Under the tiny_market project instructions
+
 The clarinet console session whitelist contract-call has a typo posted by codecademy.
 
 error posted - (contract-call .tiny-market set-whitelisted .test-sip009 true)
