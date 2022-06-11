@@ -1,5 +1,5 @@
-;; tiny-market
-;; A tiny NFT marketplace that allows users to list NFT for sale. They can specify the following:
+;; - tiny-market
+;; - A tiny NFT marketplace that allows users to list NFT for sale. They can specify the following:
 ;; - The NFT token to sell.
 ;; - Listing expiry in block height.
 ;; - The payment asset, either STX or a SIP010 fungible token.
